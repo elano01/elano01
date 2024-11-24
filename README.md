@@ -1,11 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=200&section=header&text=Bem-vindo!&fontSize=35&fontColor=ffffff&fontAlignY=35" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=450&lines=Olá,+sou+Elano+Barbosa!;Graduando+em+Gestão+de+TI;Entusiasta+em+Ciência+de+Dados;Sempre+em+busca+de+aprendizado!+🚀" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  🌍 Sou do **Brasil**, apaixonado por explorar como a tecnologia pode mudar o mundo!  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=450&lines=Olá,+sou+Elano+Barbosa!;Graduando+em+Gestão+de+TI;Entusiasta+em+Ciência+de+Dados;Sou+do+Brasil!+🌍;Sempre+em+busca+de+aprendizado!+🚀" alt="Typing SVG" />
 </p>
 
 ---

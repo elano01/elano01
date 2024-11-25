@@ -9,9 +9,10 @@
 # 👋 Sobre mim:
 - 🎓 **Graduando em Gestão da Tecnologia da Informação** pelo **UNIAENE**, com 50% do curso concluído.
 - 👨‍💻 **Especializando em Ciência de Dados** pela **EBAC**, explorando análises preditivas e soluções baseadas em dados.
-- 🤖 Experiência em projetos de **robótica**, **desenvolvimento de software** e outras aplicações acadêmicas.
-- 🌱 Atualmente aprimorando minhas habilidades em **programação** e **ciência de dados**.
-- 💞️ Busco colaborar em soluções que gerem impacto positivo.
+- 🤖 Experiência em projetos de **robótica**, **raciocínio lógico**, **algoritmos** e **análise de sistemas**.
+- 🛡️ Conhecimento em **segurança de dados** e **programação orientada a objetos** com Java.
+- 🌱 Atualmente desenvolvendo habilidades em **programação**, **desenvolvimento web** e **ciência de dados**.
+- 💞️ Busco colaborar em soluções tecnológicas que gerem impacto positivo.
 - 📫 **Entre em contato comigo**:
   - 📧 Email: [elxbarbosa018@gmail.com](mailto:elxbarbosa018@gmail.com)
   - 💼 LinkedIn: [Elano Barbosa](https://www.linkedin.com/in/elano-barbosa-627647320/)
@@ -21,10 +22,22 @@
 ---
 
 ### 🛠️ Habilidades:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1E90FF?style=for-the-badge&logo=tableau&logoColor=white)
+- **Principais habilidades técnicas:**
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1E90FF?style=for-the-badge&logo=tableau&logoColor=white)
+
+- **Experiência em:**
+  - Robótica e automação.
+  - Lógica de programação e algoritmos.
+  - Análise de sistemas e segurança de dados.
+  - Programação orientada a objetos com Java.
+
+- **Desenvolvendo habilidades em:**
+  - Desenvolvimento web (HTML, CSS, JavaScript).
+  - Ciência de dados (análise preditiva, machine learning).
+  - Aplicações baseadas em Python e SQL.
 
 ---
 
